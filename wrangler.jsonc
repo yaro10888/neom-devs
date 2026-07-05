@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "neom-devs",
+  "compatibility_date": "2026-07-05",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "neom-studiodevsbegad"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
